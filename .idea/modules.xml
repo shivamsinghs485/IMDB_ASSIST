@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IMDB_ASSIST.iml" filepath="$PROJECT_DIR$/.idea/IMDB_ASSIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTELLIJENT_IMDB/INTELLIJENT_IMDB.iml" filepath="$PROJECT_DIR$/INTELLIJENT_IMDB/INTELLIJENT_IMDB.iml" />
+    </modules>
+  </component>
+</project>
